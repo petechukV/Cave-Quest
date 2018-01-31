@@ -53,6 +53,8 @@
   <ItemGroup>
      <Compile Include="Assets\Arkham Interactive\Toony\Skies\Scripts\Levelloader.cs" />
      <Compile Include="Assets\Arkham Interactive\Toony\Skies\Scripts\MouseLook.cs" />
+     <Compile Include="Assets\Art\Menu\Load.cs" />
+     <Compile Include="Assets\Art\Menu\Menu.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

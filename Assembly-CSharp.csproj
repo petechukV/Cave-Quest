@@ -55,6 +55,8 @@
      <Compile Include="Assets\Arkham Interactive\Toony\Skies\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Scripts\Load.cs" />
      <Compile Include="Assets\Scripts\Menu.cs" />
+     <Compile Include="Assets\Scripts\NextLvl.cs" />
+     <Compile Include="Assets\Scripts\Respavn.cs" />
      <None Include="Assets\mp_emerald\license.txt" />
      <None Include="Assets\mp_emerald\Emerald Summit.txt" />
      <None Include="Assets\mp_emerald\mp_emerald.shader" />

@@ -57,9 +57,6 @@
      <Compile Include="Assets\Scripts\Menu.cs" />
      <Compile Include="Assets\Scripts\NextLvl.cs" />
      <Compile Include="Assets\Scripts\Respavn.cs" />
-     <None Include="Assets\mp_emerald\license.txt" />
-     <None Include="Assets\mp_emerald\Emerald Summit.txt" />
-     <None Include="Assets\mp_emerald\mp_emerald.shader" />
      <None Include="Assets\nec_hell\readme.txt" />
      <None Include="Assets\nec_hell\nec_hell.shader" />
  <Reference Include="UnityEngine.UI">

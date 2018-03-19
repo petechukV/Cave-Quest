@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/lvl4.unity
+- path: Assets/Scenes/lvl5 vulcano.unity
   isLoaded: 1
   isActive: 1

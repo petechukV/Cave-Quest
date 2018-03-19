@@ -276,8 +276,8 @@ MonoBehaviour:
     y: 0
     width: 880
     height: 364
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -383,33 +383,33 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scenes
+    - Assets/Materials
   m_ViewMode: 1
   m_StartGridSize: 58
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Materials
   m_LastFoldersGridSize: 58
   m_LastProjectPath: C:\Users\User\Documents\Cave-Quest
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 542a0000
-    m_LastClickedID: 10836
-    m_ExpandedIDs: 00000000fe2700009c280000bc290000402a0000962c0000802e0000822e0000ffffff7f
+    m_SelectedIDs: 082c0000
+    m_LastClickedID: 11272
+    m_ExpandedIDs: 00000000dc2700007e280000aa290000302a00009c2c0000962e0000982e0000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Materials
+      m_OriginalName: Materials
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 11272
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 6}
     m_SearchString: 
@@ -423,7 +423,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000fe2700009c280000bc290000402a0000962c0000802e0000822e0000
+    m_ExpandedIDs: 00000000dc2700007e280000aa290000302a00009c2c0000962e0000982e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -543,18 +543,18 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 5ec5feff8ec5feff90c5feffda37ffffe26affffca85ffff4ebbffff62bbffff7ebbffff80bbffff86d2ffff90f2ffff9cf7ffff00000000c22e0000f82e0000f0310000
+    m_ExpandedIDs: a6edfdffdcf5ffff30f9ffff00000000b02e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: lvl5
-      m_OriginalName: lvl5
+      m_Name: FPSController2
+      m_OriginalName: FPSController2
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -51238
+      m_UserData: -35928
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -562,7 +562,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
   m_ExpandedScenes:
-  - lvl4
+  - lvl5 vulcano
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -594,14 +594,14 @@ MonoBehaviour:
     height: 343
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 1307.1033560015899
+  lastFramingTime: 1924.8980386893215
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -330.70352, y: 7.91022, z: 189.27759}
+    m_Target: {x: -44.421516, y: 77.49614, z: 149.91544}
     speed: 2
-    m_Value: {x: -330.70352, y: 7.91022, z: 189.27759}
+    m_Value: {x: -44.421516, y: 77.49614, z: 149.91544}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -625,13 +625,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.4003093, y: -0.2720548, z: 0.12576519, w: -0.86598027}
+    m_Target: {x: -0.10861134, y: -0.8910522, z: 0.32425833, w: -0.29847318}
     speed: 2
-    m_Value: {x: -0.4003093, y: -0.2720548, z: 0.12576519, w: -0.86598027}
+    m_Value: {x: -0.10861134, y: -0.8910522, z: 0.32425833, w: -0.29847318}
   m_Size:
-    m_Target: 163.9158
+    m_Target: 22
     speed: 2
-    m_Value: 163.9158
+    m_Value: 22
   m_Ortho:
     m_Target: 0
     speed: 2

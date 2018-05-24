@@ -113,8 +113,8 @@ MonoBehaviour:
     y: 0
     width: 205
     height: 364
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -339,9 +339,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 281
+    x: 207
     y: 92
-    width: 700
+    width: 876
     height: 343
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &15
@@ -383,33 +383,33 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Materials
+    - Assets/Art/Models
   m_ViewMode: 1
   m_StartGridSize: 58
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Art/Models
   m_LastFoldersGridSize: 58
   m_LastProjectPath: C:\Users\User\Documents\Cave-Quest
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 082c0000
-    m_LastClickedID: 11272
-    m_ExpandedIDs: 00000000dc2700007e280000aa290000302a00009c2c0000962e0000982e0000ffffff7f
+    m_SelectedIDs: c2280000
+    m_LastClickedID: 10434
+    m_ExpandedIDs: 00000000bc2700006228000090290000162a00008c2c0000862e0000882e0000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Materials
-      m_OriginalName: Materials
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 11272
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 6}
     m_SearchString: 
@@ -423,7 +423,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000dc2700007e280000aa290000302a00009c2c0000962e0000982e0000
+    m_ExpandedIDs: 00000000bc2700006228000090290000162a00008c2c0000862e0000882e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -475,7 +475,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 344}
     m_GridSize: 58
   m_DirectoriesAreaWidth: 297
 --- !u!114 &16
@@ -541,20 +541,20 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: a6edfdffdcf5ffff30f9ffff00000000b02e0000
+    m_SelectedIDs: e62e0000
+    m_LastClickedID: 12006
+    m_ExpandedIDs: 50f7ffffb0f7ffff12f8ffff42f8ffff44f8ffffc4faffff00000000c42e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: FPSController2
-      m_OriginalName: FPSController2
+      m_Name: val2-1
+      m_OriginalName: val2-1
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -35928
+      m_UserData: 11968
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -594,14 +594,14 @@ MonoBehaviour:
     height: 343
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 1924.8980386893215
+  lastFramingTime: 995.1498145218804
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -44.421516, y: 77.49614, z: 149.91544}
+    m_Target: {x: -19.4332, y: 32.750656, z: 161.5181}
     speed: 2
-    m_Value: {x: -44.421516, y: 77.49614, z: 149.91544}
+    m_Value: {x: -19.4332, y: 32.750656, z: 161.5181}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -625,13 +625,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.10861134, y: -0.8910522, z: 0.32425833, w: -0.29847318}
+    m_Target: {x: 0.02054978, y: 0.9647554, z: -0.07929776, w: 0.2500734}
     speed: 2
-    m_Value: {x: -0.10861134, y: -0.8910522, z: 0.32425833, w: -0.29847318}
+    m_Value: {x: 0.02054978, y: 0.9647554, z: -0.07929776, w: 0.2500734}
   m_Size:
-    m_Target: 22
+    m_Target: 147.67503
     speed: 2
-    m_Value: 22
+    m_Value: 147.67503
   m_Ortho:
     m_Target: 0
     speed: 2
